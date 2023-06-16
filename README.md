@@ -10,7 +10,7 @@
       <a href="https://www.instagram.com/bieel_win7/" target="_blank">
       <img align="center" src="https://img.shields.io/badge/-Bieel_win7-05122A?style=flat&logo=instagram" alt="instagram"/>
       </a>
-<img height="250" align="right" src="https://cdn-icons-png.flaticon.com/512/924/924915.png" alt=“Dev” title="My Dev"/>
+<img height="350" align="right" src="https://cdn-icons-png.flaticon.com/512/924/924915.png" alt=“Dev” title="My Dev"/>
   </p>
  <div aling="left">
   <a href="https://github.com/gabrielpinheiro2002">
